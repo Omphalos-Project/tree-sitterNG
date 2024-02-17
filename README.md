@@ -16,6 +16,7 @@ NPM dependencies removed as the CLI client has been rewritten in Modern Object P
 
 TODO:
 - Rewrite the highlighter library in Modern Object Pascal (Work in progress).
+- Rewrite the tags library in Modern Object Pascal.
 - Rewrite the CLI parser generator tool and extend it with missing features.
 - Remove all traces of Rust and NPM.
 - Add Modern Object Pascal bindings for the tree-sitter runtime library and highlighter (Work in progress).
